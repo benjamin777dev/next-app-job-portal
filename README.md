@@ -5,7 +5,7 @@ adding my code
 
 ## Authors
 
-- [Abdullah Moiz](https://github.com/kamil-lm)
+- [Kamil Luis](https://github.com/kamil-lm)
 
 ## Features
 
